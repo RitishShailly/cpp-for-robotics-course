@@ -1,0 +1,1 @@
+This repo contains my scripts from cpp-for-robotics course offered by theconstructsim.com
